@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import './BottomNaivgationWidget/BottomNaivgationWidget.dart';
+import './widgets/BottomNaivgationWidget.dart';
+import './widgets/BottomNaivgationWidget.dart';
+
 
 void main() => runApp(MyApp());
 
